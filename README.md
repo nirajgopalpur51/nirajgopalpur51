@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajgopalpur51&label=Profile%20views&color=0e75b6&style=flat" alt="nirajgopalpur51" /> </p>
 
+- 🌱 I’m currently learning **MERN STACK**
+
 - 📫 How to reach me **nirajgopalpur51@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
