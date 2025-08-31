@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj</h1>
-<h3 align="center">A Data Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajgopalpur51&label=Profile%20views&color=0e75b6&style=flat" alt="nirajgopalpur51" /> </p>
 
