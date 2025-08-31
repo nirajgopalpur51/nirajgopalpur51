@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niraj</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajgopalpur51&label=Profile%20views&color=0e75b6&style=flat" alt="nirajgopalpur51" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **nirajgopalpur51@gmail.com**
 
